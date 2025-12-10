@@ -1,3 +1,3 @@
-#﻿Python practice project
+#Python practice project
 
 
