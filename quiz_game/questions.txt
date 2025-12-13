@@ -1,0 +1,20 @@
+question=What is the capital of Nepal?
+a=Pokhara
+b=Kathmandu
+c=Lalitpur
+d=Butwal
+answer=b
+---
+question=Which keyword is used to define a function in Python?
+a=func
+b=method
+c=define
+d=def
+answer=d
+---
+question=Which data type is immutable?
+a=list
+b=set
+c=tuple
+d=dict
+answer=c
